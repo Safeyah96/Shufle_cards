@@ -1,0 +1,14 @@
+.card {
+  border: 1px solid black;
+  width: fit-content;
+  padding: 16px;
+}
+.card-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+.green {
+  background-color: green;
+}
